@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/micokontic/form_validation_FRONT_REACT/static/css/main.d3054c09.chunk.css",
-    "main.js": "/micokontic/form_validation_FRONT_REACT/static/js/main.3c7fc3b9.chunk.js",
-    "main.js.map": "/micokontic/form_validation_FRONT_REACT/static/js/main.3c7fc3b9.chunk.js.map",
-    "runtime-main.js": "/micokontic/form_validation_FRONT_REACT/static/js/runtime-main.7207fb40.js",
-    "runtime-main.js.map": "/micokontic/form_validation_FRONT_REACT/static/js/runtime-main.7207fb40.js.map",
-    "static/js/2.c1a10aca.chunk.js": "/micokontic/form_validation_FRONT_REACT/static/js/2.c1a10aca.chunk.js",
-    "static/js/2.c1a10aca.chunk.js.map": "/micokontic/form_validation_FRONT_REACT/static/js/2.c1a10aca.chunk.js.map",
-    "index.html": "/micokontic/form_validation_FRONT_REACT/index.html",
-    "precache-manifest.56c78cbbb6c62b65343db309751cfa17.js": "/micokontic/form_validation_FRONT_REACT/precache-manifest.56c78cbbb6c62b65343db309751cfa17.js",
-    "service-worker.js": "/micokontic/form_validation_FRONT_REACT/service-worker.js",
-    "static/css/main.d3054c09.chunk.css.map": "/micokontic/form_validation_FRONT_REACT/static/css/main.d3054c09.chunk.css.map",
-    "static/js/2.c1a10aca.chunk.js.LICENSE.txt": "/micokontic/form_validation_FRONT_REACT/static/js/2.c1a10aca.chunk.js.LICENSE.txt"
+    "main.css": "/my-appform_validation_FRONT_REACT/static/css/main.d3054c09.chunk.css",
+    "main.js": "/my-appform_validation_FRONT_REACT/static/js/main.3c7fc3b9.chunk.js",
+    "main.js.map": "/my-appform_validation_FRONT_REACT/static/js/main.3c7fc3b9.chunk.js.map",
+    "runtime-main.js": "/my-appform_validation_FRONT_REACT/static/js/runtime-main.47b2557f.js",
+    "runtime-main.js.map": "/my-appform_validation_FRONT_REACT/static/js/runtime-main.47b2557f.js.map",
+    "static/js/2.c1a10aca.chunk.js": "/my-appform_validation_FRONT_REACT/static/js/2.c1a10aca.chunk.js",
+    "static/js/2.c1a10aca.chunk.js.map": "/my-appform_validation_FRONT_REACT/static/js/2.c1a10aca.chunk.js.map",
+    "index.html": "/my-appform_validation_FRONT_REACT/index.html",
+    "precache-manifest.e762aa65dd41d05fe712681599a53ff3.js": "/my-appform_validation_FRONT_REACT/precache-manifest.e762aa65dd41d05fe712681599a53ff3.js",
+    "service-worker.js": "/my-appform_validation_FRONT_REACT/service-worker.js",
+    "static/css/main.d3054c09.chunk.css.map": "/my-appform_validation_FRONT_REACT/static/css/main.d3054c09.chunk.css.map",
+    "static/js/2.c1a10aca.chunk.js.LICENSE.txt": "/my-appform_validation_FRONT_REACT/static/js/2.c1a10aca.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7207fb40.js",
+    "static/js/runtime-main.47b2557f.js",
     "static/js/2.c1a10aca.chunk.js",
     "static/css/main.d3054c09.chunk.css",
     "static/js/main.3c7fc3b9.chunk.js"
